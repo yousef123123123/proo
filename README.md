@@ -1,21 +1,22 @@
-نظرة عامة على المشروع
-هذا المستودع يحتوي على مشروع تطبيق تسوق متكامل تم تطويره باستخدام Flutter و Dart. يهدف المشروع إلى تطبيق مفاهيم تطوير تطبيقات الهاتف المحمول بشكل عملي، بدءًا من أساسيات لغة Dart وصولًا إلى بناء واجهات مستخدم تفاعلية، والتحقق من صحة المدخلات، وإدارة التنقل بين الصفحات.
+# README.md
 
-الميزات المنفذة
-تم تصميم هذا التطبيق ليعرض الميزات التالية:
+---
 
-شاشة ترحيب ثابتة: تعرض معلومات أساسية باستخدام صور محلية وشبكية، مع دعم الخطوط المخصصة وأزرار لتوجيه المستخدم.
+## Project Overview
 
-نظام مصادقة المستخدم: يتضمن صفحات تسجيل دخول واشتراك مع تحقق دقيق من صحة المدخلات مثل تنسيق البريد الإلكتروني وطول كلمة المرور، لضمان سلامة البيانات.
+This repository contains a complete shopping application project developed using **Flutter** and **Dart**. The project aims to apply mobile app development concepts in a practical way, starting from the basics of the Dart language to building interactive user interfaces, validating input, and managing page navigation.
 
-تصفح المنتجات: شاشة رئيسية تحتوي على عدة أقسام:
+---
 
-عارض منتجات مميزة: يسمح بالتمرير الأفقي بين المنتجات.
+## Implemented Features
 
-شبكة المنتجات: تعرض المنتجات في تخطيط شبكي تفاعلي.
+The application is designed to showcase the following features:
 
-العروض اليومية: قسم مخصص لعرض العروض الخاصة في قائمة قابلة للتمرير.
-
-انتقالات الصفحات: تم تطبيق رسوم متحركة مخصصة للانتقال بين الصفحات، مما يوفر تجربة مستخدم سلسة.
-
-تعريب الواجهة: يدعم التطبيق اللغة العربية بالكامل من خلال استخدام ملفات .arb، مما يجعله جاهزًا للأسواق العالمية.
+* **Static Welcome Screen:** Displays basic information using local and network images, with support for custom fonts and buttons to guide the user.
+* **User Authentication System:** Includes login and sign-up pages with precise input validation, such as email format and password length, to ensure data integrity.
+* **Product Browse:** A main screen that contains several sections:
+    * **Featured Products Viewer:** Allows for horizontal scrolling between products.
+    * **Product Grid:** Displays products in an interactive grid layout.
+    * **Daily Deals:** A dedicated section to display special offers in a scrollable list.
+* **Page Transitions:** Custom animations have been implemented for page transitions, providing a smooth user experience.
+* **UI Localization:** The app fully supports the Arabic language through the use of `.arb` files, making it ready for global markets.
