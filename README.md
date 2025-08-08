@@ -1,16 +1,21 @@
-# proo
+نظرة عامة على المشروع
+هذا المستودع يحتوي على مشروع تطبيق تسوق متكامل تم تطويره باستخدام Flutter و Dart. يهدف المشروع إلى تطبيق مفاهيم تطوير تطبيقات الهاتف المحمول بشكل عملي، بدءًا من أساسيات لغة Dart وصولًا إلى بناء واجهات مستخدم تفاعلية، والتحقق من صحة المدخلات، وإدارة التنقل بين الصفحات.
 
-A new Flutter project.
+الميزات المنفذة
+تم تصميم هذا التطبيق ليعرض الميزات التالية:
 
-## Getting Started
+شاشة ترحيب ثابتة: تعرض معلومات أساسية باستخدام صور محلية وشبكية، مع دعم الخطوط المخصصة وأزرار لتوجيه المستخدم.
 
-This project is a starting point for a Flutter application.
+نظام مصادقة المستخدم: يتضمن صفحات تسجيل دخول واشتراك مع تحقق دقيق من صحة المدخلات مثل تنسيق البريد الإلكتروني وطول كلمة المرور، لضمان سلامة البيانات.
 
-A few resources to get you started if this is your first Flutter project:
+تصفح المنتجات: شاشة رئيسية تحتوي على عدة أقسام:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+عارض منتجات مميزة: يسمح بالتمرير الأفقي بين المنتجات.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+شبكة المنتجات: تعرض المنتجات في تخطيط شبكي تفاعلي.
+
+العروض اليومية: قسم مخصص لعرض العروض الخاصة في قائمة قابلة للتمرير.
+
+انتقالات الصفحات: تم تطبيق رسوم متحركة مخصصة للانتقال بين الصفحات، مما يوفر تجربة مستخدم سلسة.
+
+تعريب الواجهة: يدعم التطبيق اللغة العربية بالكامل من خلال استخدام ملفات .arb، مما يجعله جاهزًا للأسواق العالمية.

@@ -1,0 +1,21 @@
+{
+  "home": "Home",
+  "login": "Sign In",
+  "register": "Sign Up",
+  "newUser": "New user? Register",
+  "ecommerceApp": "Ecommerce App",
+  "goToLogin": "Go to Login",
+  "emailRequired": "Email is required",
+  "validEmail": "Enter a valid email",
+  "password": "Password",
+  "passwordRequired": "Password is required",
+  "passwordLength": "Password must be at least 6 characters",
+  "usernameRequired": "Username is required",
+  "confirmPassword": "Confirm Password",
+  "passwordsNotMatch": "Passwords do not match",
+  "welcome": "Welcome",
+  "email": "Email",
+  "fullName": "Full Name",
+  "firstLetterUppercase": "First letter must be uppercase",
+  "alreadyHaveAccount": "Already have an account? Sign In"
+}

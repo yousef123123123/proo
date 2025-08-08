@@ -1,0 +1,21 @@
+{
+  "home": "الرئيسية",
+  "login": "تسجيل الدخول",
+  "register": "مستخدم جديد",
+  "newUser": "مستخدم جديد؟ سجل الآن",
+  "ecommerceApp": "تطبيق التجارة",
+  "goToLogin": "اذهب للتسجيل",
+  "emailRequired": "البريد الإلكتروني مطلوب",
+  "validEmail": "أدخل بريد إلكتروني صحيح",
+  "passwordRequired": "كلمة المرور مطلوبة",
+  "passwordLength": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+  "usernameRequired": "اسم المستخدم مطلوب",
+  "confirmPassword": "أكد كلمة المرور",
+  "passwordsNotMatch": "كلمتا المرور غير متطابقتين",
+  "welcome": "مرحبا بك",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "fullName": "الاسم الكامل",
+  "firstLetterUppercase": "يجب أن يبدأ الاسم بحرف كبير",
+  "alreadyHaveAccount": "لديك حساب؟ سجل الدخول"
+}
